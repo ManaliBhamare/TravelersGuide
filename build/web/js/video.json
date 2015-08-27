@@ -1,0 +1,241 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"tbWC5XrSXxe1WOAx6MK9z4hHSU8/4el2kKp-kcHVLy8wRmyueaEraMA\"",
+ "nextPageToken": "CAUQAA",
+ "pageInfo": {
+  "totalResults": 11,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+
+   "kind": "youtube#playlistItem",
+   "etag": "\"tbWC5XrSXxe1WOAx6MK9z4hHSU8/2bMd5q4QqCGhOfmpkm92x6HoF8A\"",
+   "id": "PL7wk0vpSXUZfhUeCoXjImqcSntIVLvlGLf36kF1tsSEA",
+   "snippet": {
+    "publishedAt": "2013-01-14T15:24:09.000Z",
+    "channelId": "UC25HBOBYfc-scqCQcyYKVNw",
+    "title": "Travel Yalta, Ukraine - The Swallow's Nest in Yalta",
+    "description": "Take a tour of Swallow's Nest in Yalta, Ukraine -- part of the World's Greatest Attractions series by GeoBeats.\r\n \r\nIts appearance is that of a fairy-tale castle, looking off a cliff to the sea.\r\n\r\nThe Swallow's Nest is an amazing building, both in its design and its location.\r\n\r\nThe castle is situated 130 feet above the Black Sea, on Aurora Cliff.\r\n\r\nIt was built by Baron Von Steingel in 1911 and was sold just three years later. \r\n\r\nAn earthquake in 1927 cracked the cliff and closed down the castle for forty years.\r\n\r\nIn 1975 it was reopened as a restaurant, truly an amazing dinner location.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Kr0LZ6ysbk0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Kr0LZ6ysbk0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Kr0LZ6ysbk0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Kr0LZ6ysbk0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Kr0LZ6ysbk0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Prepare to Serve!",
+    "playlistId": "PLo6WmFbBTUeyJIKlY6Ibmig8ydY7gu7Gc",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Kr0LZ6ysbk0"
+    }
+   }
+  },
+  {
+
+   "kind": "youtube#playlistItem",
+   "etag": "\"tbWC5XrSXxe1WOAx6MK9z4hHSU8/aSE1GI_ex9qWVBRPxz4MW8ac6zI\"",
+   "id": "PL7wk0vpSXUZfhUeCoXjImqczcODEBj6wng1sR1IORL9k",
+   "snippet": {
+    "publishedAt": "2013-01-14T15:24:09.000Z",
+    "channelId": "UC25HBOBYfc-scqCQcyYKVNw",
+    "title": "Travel Ukraine - Visiting Massandra Palace",
+    "description": "Take a tour of Massandra Palace in Ukraine -- part of the World's Greatest Attractions travel video series by GeoBeats.\r\n \r\nIn the picturesque town of Massandra, sits the gorgeous Massandra Palace. \r\n\r\nIn the southern regions of Crimea, this chateau was completed at the turn of the 20th century. \r\n\r\nThis stunning attraction boasts French architecture in a distinctly Ukrainian setting. \r\n\r\nWide vistas and vibrant gardens greet you at every turn, while the art collections and period furniture beckon you inside. \r\n\r\nThis former holiday getaway for Soviet leaders is stirring from every angle. \r\n\r\nThe views, gardens and atmosphere are truly unique in Eastern Europe.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bGyRTuvhhrY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bGyRTuvhhrY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bGyRTuvhhrY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bGyRTuvhhrY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bGyRTuvhhrY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Prepare to Serve!",
+    "playlistId": "PLo6WmFbBTUeyJIKlY6Ibmig8ydY7gu7Gc",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bGyRTuvhhrY"
+    }
+   }
+  },
+  {
+
+   "kind": "youtube#playlistItem",
+   "etag": "\"tbWC5XrSXxe1WOAx6MK9z4hHSU8/pKimbDZSLs5dGeWIMEYtjsLujds\"",
+   "id": "PL7wk0vpSXUZfhUeCoXjImqYas1xJ1HvRUeh-FMwFne24",
+   "snippet": {
+    "publishedAt": "2013-01-14T15:24:09.000Z",
+    "channelId": "UC25HBOBYfc-scqCQcyYKVNw",
+    "title": "Kiev, Ukraine Travel Guide - St Michael Monastery in Kiev",
+    "description": "Take a tour of Kiev's St Michael Monastery in Ukraine -- part of the World's Greatest Attractions travel video series by GeoBeats.\r\n \r\nThe Saint Michael Monastery sparkles along the skyline of Kiev in Ukraine. \r\n\r\nIt was nearly 300 years ago that the monastery was initially constructed.\r\n\r\nThe cathedral has a variety of different chimes that ring throughout the community each day.\r\n\r\nThe cathedral holds an array of striking and graceful mosaics.\r\n\r\nAlthough the cathedral has endured reconstructions over its lifetime, the essence of this magnanimous structure has been unchanged.\r\n\r\nThe Saint Michael's Golden Domed Monastery serves as a centerpiece to the stunning city of Kiev.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CC9AhNPVE-g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CC9AhNPVE-g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CC9AhNPVE-g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CC9AhNPVE-g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CC9AhNPVE-g/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Prepare to Serve!",
+    "playlistId": "PLo6WmFbBTUeyJIKlY6Ibmig8ydY7gu7Gc",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CC9AhNPVE-g"
+    }
+   }
+  },
+  {
+
+   "kind": "youtube#playlistItem",
+   "etag": "\"tbWC5XrSXxe1WOAx6MK9z4hHSU8/ITYuiRKYuIF0RGDIzE3kOLgdrlE\"",
+   "id": "PL7wk0vpSXUZfhUeCoXjImqecffH32qQkKB_4sILL0kME",
+   "snippet": {
+    "publishedAt": "2013-01-14T15:24:09.000Z",
+    "channelId": "UC25HBOBYfc-scqCQcyYKVNw",
+    "title": "Travel Ukraine - Tour of Khotyn Fortress",
+    "description": "Take a tour of Khotyn Fortress in Ukraine -- part of the World's Greatest Attractions travel video series by GeoBeats.\r\n \r\nAmidst the enlivening landscape of Ukraine, stands a glorious castle.\r\n\r\nResting on the banks of Dniester River and the gorgeous green fields of Khotyn is the enigmatic Khotyn Fortress.\r\n\r\nBuilt on the site of a previous fort, the structure that stands here today was largely built in the early 14th century.\r\n\r\nHowever many additions and renovations were carried out here in the late 14th and 15th centuries.\r\n\r\nFrom its beginnings as a medieval fort to the present day fortress, its ownership fell into the hands of several different empires and various countries.\r\n\r\nMentioned in the list of Seven Wonders of Ukraine, this gorgeous fortress is a true marvel.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Bxh2PHBMPfI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Bxh2PHBMPfI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Bxh2PHBMPfI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Bxh2PHBMPfI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Bxh2PHBMPfI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Prepare to Serve!",
+    "playlistId": "PLo6WmFbBTUeyJIKlY6Ibmig8ydY7gu7Gc",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Bxh2PHBMPfI"
+    }
+   }
+  },
+  {
+
+   "kind": "youtube#playlistItem",
+   "etag": "\"tbWC5XrSXxe1WOAx6MK9z4hHSU8/gmNthS8iN1P8Wk5xjMAW6Eezfao\"",
+   "id": "PL7wk0vpSXUZfhUeCoXjImqVIgqVZtnowADDtf37WFf4Y",
+   "snippet": {
+    "publishedAt": "2013-01-14T15:24:09.000Z",
+    "channelId": "UC25HBOBYfc-scqCQcyYKVNw",
+    "title": "Travel Ukraine - Tour of Palanok Castle",
+    "description": "Take a tour of Palanok Castle in Ukraine -- part of the World's Greatest Attractions travel video series by GeoBeats.\r\n \r\nRising above the green lands of Ukraine's Mukachevo city, lies a modest yet enchanting castle.\r\n\r\nPalanok Castle is perched on a volcanic hill, overlooking the entire town beneath it.\r\n\r\nThe geographically strategic position it holds made it nearly impregnable.\r\n\r\nThe huge castle complex, spanning around 14,000 square meters, is divided into 3 separate parts - the high, middle, and low castle.\r\n\r\nIts tall towers, modern roofs, lovely clock towers and over 130 rooms make this structure truly charming.\r\n\r\nThis castle has donned various roles throughout history, including a residence for many noblemen, a prison, as barracks and also an agricultural college.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9LhEvsmUU-c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9LhEvsmUU-c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9LhEvsmUU-c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9LhEvsmUU-c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9LhEvsmUU-c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Prepare to Serve!",
+    "playlistId": "PLo6WmFbBTUeyJIKlY6Ibmig8ydY7gu7Gc",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9LhEvsmUU-c"
+    }
+   }
+  }
+ ]
+}
